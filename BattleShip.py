@@ -1,3 +1,6 @@
+## Mengqi Li (ID: 92059150)
+## ICS 31
+
 import os.path
 
 ## Global Variables
